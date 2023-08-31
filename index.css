@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#calc-btn {
+    text-align: center;
+}
+
+#calc-btn:hover {
+    background-color: aqua;
+
+}
+hidden {
+    display: none important; 
+}
